@@ -134,24 +134,88 @@ Focuses on structured and streamlined allocation of IT and computing resources.
 
 #### Best practice areas
 
-  
+##### Selection
+* Performance architecture selection
+* Compute architecture selection
+* Storage Architecture Selection
+* Database architecture selection
+* Network architecture selection
 
+##### Review
+* Evolve your workload to take advantage of new releases
+
+##### Monitoring
+* Monitor your resources to ensure that they are performing as expected
+
+##### Trade-offs
+* Using trade-offs to improve performance
 
 ### Cost Optimization Pillar
 
 Focuses on avoiding unnecessary costs.
 
 #### Design principles
+* Implement cloud financial management
+* Adopt a consumption model
+* Measure overall efficiency
+* Stop spending money on undifferentiated heavy lifting
+* Analyze and attribute expenditure
 
 #### Best practice areas
+
+##### Practice Cloud Financial Management
+* See, Save, Plan, Run
+
+##### Expenditure and usage awareness
+* Governance
+* Monitor cost and usage
+* Decommission resources
+
+##### Cost effective resources
+* Evaluate cost when selecting services
+* Select the correct resource type, size, and number
+* Select the best pricing model
+* Plan for data transfer
+
+##### Manage demand and supply resources
+* eliminate overprovisioning.
+* Modify the demand using a throttle, buffer, or queue to smooth the demand and serve it with less resources.
+
+##### Optimize over time
+* Define a review process and analyze your workload regularly
+* Automate operations
 
 ### Sustainability Pillar
 
 Focuses on minimizing the environmental impacts of running cloud workloads.
 
 #### Design principles
+* Understand your impact
+* Establish sustainability goals
+* Maximize utilization
+* Anticipate and adopt new, more efficient hardware and software offerings
+* Use managed services
+* Reduce the downstream impact of your cloud workloads
 
 #### Best practice areas
+
+##### Region selection
+* Choose Regions for your workloads based on both business requirements and sustainability goals
+
+##### Alignment to demand
+* Scale infrastructure to continually match demand and verify that you use only the minimum resources required to support your users
+
+##### Software and architecture
+* Implement patterns for performing load smoothing and maintaining consistent high utilization of deployed resources to minimize the resources consumed
+
+##### Data
+* Implement data management practices to reduce the provisioned storage required to support your workload, and the resources required to use i
+
+##### Hardware and services
+* Look for opportunities to reduce workload sustainability impacts by making changes to your hardware management practices
+
+##### Process and culture
+* Look for opportunities to reduce your sustainability impact by making changes to your development, test, and deployment practices.
 
 ## Well-Architected Lenses
 
