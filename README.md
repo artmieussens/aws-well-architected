@@ -209,7 +209,7 @@ Focuses on minimizing the environmental impacts of running cloud workloads.
 * Implement patterns for performing load smoothing and maintaining consistent high utilization of deployed resources to minimize the resources consumed
 
 ##### Data
-* Implement data management practices to reduce the provisioned storage required to support your workload, and the resources required to use i
+* Implement data management practices to reduce the provisioned storage required to support your workload, and the resources required to use it.
 
 ##### Hardware and services
 * Look for opportunities to reduce workload sustainability impacts by making changes to your hardware management practices
