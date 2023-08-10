@@ -178,7 +178,7 @@ Focuses on avoiding unnecessary costs.
 * Plan for data transfer
 
 ##### Manage demand and supply resources
-* eliminate overprovisioning.
+* Eliminate overprovisioning.
 * Modify the demand using a throttle, buffer, or queue to smooth the demand and serve it with less resources.
 
 ##### Optimize over time
