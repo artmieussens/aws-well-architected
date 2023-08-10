@@ -20,8 +20,8 @@ Focuses on running and monitoring systems, and continually improving processes a
 #### Best practice areas
 
 ##### Organization
-* Your teams need to have a shared understanding of your entire workload, their role in it, and shared business goals to set the priorities that will create business success.
-* Teams need to understand their roles in the success of other teams, the role of other teams in their success, and have shared goals.
+* Teams need to have a shared understanding of your entire workload and their role in it.
+* Teams need to understand their roles in the success of other teams, the role of other teams in their success, and have shared goals to set the priorities that will create business success.
 * Provide support for your team members so that they can be more effective in taking action and supporting your business outcome.
 
 ##### Prepare
