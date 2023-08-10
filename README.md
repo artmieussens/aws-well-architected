@@ -70,13 +70,13 @@ Control methodologies, such as defense in depth, that are necessary to meet best
 * Protecting networks
 * Protecting compute
 
-#### Data protection
+##### Data protection
 Before architecting any workload, foundational practices that influence security should be in place.
 * Data classification
 * Protecting data at rest
 * Protecting data in transit
 
-#### Incident response
+##### Incident response
 Implement mechanisms to respond to and mitigate the potential impact of security incidents.
 * Evaluate design goals of cloud response
 * Educate
@@ -84,7 +84,7 @@ Implement mechanisms to respond to and mitigate the potential impact of security
 * Simulate
 * Iterate
 
-#### Application security
+##### Application security
 Design, build, and test the security properties of the workloads you develop
 
 ### Reliability Pillar
