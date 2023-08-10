@@ -55,7 +55,7 @@ Focuses on protecting information and systems.
 ##### Security Foundations
 * Shared responsibility
 * AWS response to abuse and compromise
-* Governance. Upport business objectives by defining policies and control objectives to help manage risk.
+* Governance. Support business objectives by defining policies and control objectives to help manage risk.
 
 ##### Identity and access management
 Ensure that the right people have access to the right resources under the right conditions.
